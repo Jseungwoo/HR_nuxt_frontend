@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "C:/Users/young/OneDrive/바탕 화면/학생프로젝트/77기 1차 Vue/인사/77th_hr_front/node_modules/.pnpm/nuxt@3.7.4_@types+node@20.8.6_eslint@8.51.0_sass@1.69.3_stylelint@15.10.3_typescript@5.2.2/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "C:/Users/young/OneDrive/바탕 화면/학생프로젝트/77기 1차 Vue/인사/77th_hr_front/node_modules/.pnpm/nuxt@3.7.4_@types+node@20.8.6_eslint@8.51.0_sass@1.69.3_stylelint@15.10.3_typescript@5.2.2/node_modules/nuxt/dist/app/entry.js"
+  }
+}
